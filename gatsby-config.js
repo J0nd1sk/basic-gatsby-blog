@@ -1,8 +1,17 @@
 module.exports = {
-  /* Your site config here */
   plugins: [
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `roboto mono`,
+          `muli\:400,400i,700,700i,`,
+        ],
+        display: "swap",
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
