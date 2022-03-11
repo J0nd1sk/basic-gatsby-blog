@@ -1,0 +1,12 @@
+{
+    "meta": {
+      "title": "Packet Deli",
+      "titleTemplate": "%s",
+      "description": "Initial blog for my technology studies and explorations. Particularly ❤ cybersecurity and cryptocurrency spaces.",
+      "siteUrl": "https://blog.packetdeli.com",
+      "image": "../images/AccelerateNetwork.jpg",
+      "iconimage": "../images/AccelerateNetwork_icon.jpg",
+      "twitterUsername": "@RichardPalladi1"
+    },
+    "ga": "UA-XXXXXXXXX-X"
+}
